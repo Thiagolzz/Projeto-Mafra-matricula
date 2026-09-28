@@ -24,6 +24,3 @@ Projeto acadêmico desenvolvido para a disciplina de Coding da professora Mafra,
 - Kauãn: Desenvolvimento do código.
 - Guilherme: Desenvolvimento do código.
 
-## Testar código
-
-<img width="20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
