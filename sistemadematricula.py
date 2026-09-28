@@ -1,4 +1,3 @@
-```python
 from time import sleep
 
 # Lista onde serão armazenados todos os alunos cadastrados
@@ -165,4 +164,4 @@ while True:
         # Caso o usuário digite uma opção que não existe no menu
         print("\nSelecione uma opção válida!")
         sleep(2)
-```
+
