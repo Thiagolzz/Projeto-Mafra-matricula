@@ -22,4 +22,8 @@ Projeto acadêmico desenvolvido para a disciplina de Coding da professora Mafra,
 - Thiago: Criação do repositório e documentação do código.
 - Matheus: Revisão final e teste completo do código.
 - Kauãn: Desenvolvimento do código.
-- Guilherme: Desenvolvimento do código. 
+- Guilherme: Desenvolvimento do código.
+
+## Testar código
+
+<img width="20px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/replit/replit-original.svg" />
