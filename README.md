@@ -15,3 +15,11 @@ Projeto acadêmico desenvolvido para a disciplina de Coding da professora Mafra,
 
 5 - Guilherme Fortaleza de Sousa 
     01877047
+
+## Funções dos alunos
+
+- Gustavo: Leitura e intepretação do PDF e organização das funções de cada aluno.
+- Thiago: Criação do repositório e documentação do código.
+- Matheus: Revisão final e teste completo do código.
+- Kauãn: Desenvolvimento do código.
+- Guilherme: Desenvolvimento do código. 
