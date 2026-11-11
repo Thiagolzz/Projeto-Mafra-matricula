@@ -43,24 +43,12 @@ Projeto acadêmico desenvolvido para a disciplina de Coding, ministrada pela pro
 
 É necessário ter o Python 3 instalado no computador.
 
-Verifique a instalação:
-
-```bash
-python --version
-```
-
 No Linux, caso o Tkinter não esteja instalado, instale-o utilizando o gerenciador de pacotes da sua distribuição.
-
-No CachyOS/Arch Linux:
-
-```bash
-sudo pacman -S tk
-```
 
 ### 2. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/Thiagolzz/Projeto-Mafra-matricula.git
 ```
 
 Entre na pasta do projeto:
@@ -79,17 +67,12 @@ python -m venv venv
 
 ### 4. Ativar o ambiente virtual
 
-**Linux (Bash/Zsh):**
+**Linux:**
 
 ```bash
 source venv/bin/activate
 ```
 
-**Linux (Fish):**
-
-```fish
-source venv/bin/activate.fish
-```
 
 **Windows (PowerShell):**
 
@@ -113,22 +96,3 @@ Execute:
 python main.py
 ```
 
-Pronto! A interface gráfica do sistema será aberta.
-
-O banco de dados SQLite (`matriculas.db`) é criado automaticamente na primeira execução, sem necessidade de configuração manual.
-
----
-
-## Banco de dados
-
-O projeto utiliza SQLite, que permite armazenar os dados localmente sem precisar instalar ou configurar um servidor de banco de dados.
-
-O arquivo `matriculas.db` é gerado automaticamente durante a inicialização do sistema e mantém os alunos cadastrados mesmo após o encerramento do programa.
-
-**Observação:** o banco é local e independente em cada computador. Os dados cadastrados não são compartilhados entre os integrantes pelo GitHub.
-
----
-
-## Encerramento
-
-Projeto desenvolvido como atividade acadêmica da disciplina de Coding, com o objetivo de aplicar conhecimentos de programação Python, organização de código, interfaces gráficas e manipulação de banco de dados.
